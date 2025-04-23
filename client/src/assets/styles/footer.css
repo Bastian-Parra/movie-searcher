@@ -1,0 +1,14 @@
+footer {
+    opacity: 0.5;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: space-between
+}
+
+footer img {
+    width: 50px;
+    height: auto;
+}
